@@ -1,6 +1,6 @@
 ## Files required to download before first session (Linux)
 
-| S.No | Azure Service Name |
+| S.No | Files to download |
 | ---- | ---------------- |
 | 1.   | [Ubuntu 21.10](https://in.mirror.coganng.com/ubuntu-cdimage/21.10/ubuntu-21.10-desktop-amd64.iso) |
 | 2.   | [Ubuntu 21.10 Preinstalled](https://telkomuniversity.dl.sourceforge.net/project/osboxes/v/vb/55-U-u/21.10/64bit.7z) |
