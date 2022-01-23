@@ -8,3 +8,7 @@
 | 4.   | [Putty - Not required for win 10](https://the.earth.li/~sgtatham/putty/0.76/w64/putty-64bit-0.76-installer.msi) |
 | 5.   | [WinSCP](https://winscp.net/eng/downloads.php) |
 
+
+## Other info
+
+- Virtualbox install steps are provided in this [link](https://github.com/uday-globuslive/24-jan-devops/blob/main/documents/virtualbox%20install.pdf)
