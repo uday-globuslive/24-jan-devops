@@ -24,3 +24,5 @@ cloud services:
 - [aws linux 2 local instalaltion](https://www.youtube.com/watch?v=9VSkRw5Cnnc&list=PLr_v6Swg6-DLnvGYEHr7s-NNTKgf8cVUE&index=1)
 - [devops overview](https://www.youtube.com/watch?v=gr0-6WAFWlw&list=PLr_v6Swg6-DICmGtvfZ6rjrkgCmmK5EGP&index=3)
 
+Other references:
+- [Shell Scripting tutorial](https://www.youtube.com/watch?v=GtovwKDemnI)
