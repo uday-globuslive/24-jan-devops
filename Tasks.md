@@ -26,3 +26,7 @@ cloud services:
 
 Other references:
 - [Shell Scripting tutorial](https://www.youtube.com/watch?v=GtovwKDemnI)
+
+Day 3 task:
+- [basics of networking](https://www.geeksforgeeks.org/basics-computer-networking/)
+- [ip addressing](https://linuxdiaryblog.blogspot.com/2019/07/networks-and-subnetting.html)
