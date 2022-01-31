@@ -30,3 +30,13 @@ Other references:
 Day 3 task:
 - [basics of networking](https://www.geeksforgeeks.org/basics-computer-networking/)
 - [ip addressing](https://linuxdiaryblog.blogspot.com/2019/07/networks-and-subnetting.html)
+
+links related to linux:
+- [configure ssh key in linux](https://devopsdiaryblog.wordpress.com/2021/08/02/configure-ssh-key-auth-and-disable-password-auth/)
+- [how to use vi editor on linux](https://www.youtube.com/watch?v=YOBFXayvqAo&list=PLr_v6Swg6-DKuRHw1enbg9-C3_OmuwjFO&index=11)
+- [ubuntu server installation](https://www.youtube.com/watch?v=Dopd_2gUaiI&list=PLr_v6Swg6-DKuRHw1enbg9-C3_OmuwjFO&index=14&t=12s)
+- [convert pem to ppk](https://www.youtube.com/watch?v=XHVjpVP_bjo&list=PLr_v6Swg6-DKuRHw1enbg9-C3_OmuwjFO&index=2)
+
+links related to github:
+- [github - remote hungup](https://devopsdiaryblog.wordpress.com/2017/07/07/git-remote-end-hung-up-error/)
+
