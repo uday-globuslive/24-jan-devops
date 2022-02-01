@@ -48,4 +48,4 @@ virtualbox
 windows
 - [windows 10](https://www.microsoft.com/en-in/software-download/windows10)
 - [windows server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
-- [jenkins download msi](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
+- [jenkins download msi](https://www.jenkins.io/download/)
