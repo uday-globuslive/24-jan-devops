@@ -39,4 +39,13 @@ links related to linux:
 
 links related to github:
 - [github - remote hungup](https://devopsdiaryblog.wordpress.com/2017/07/07/git-remote-end-hung-up-error/)
+- [git](https://devopsdiaryblog.wordpress.com/git/)
 
+virtualbox
+- [windows and virtualbox](https://devopsdiaryblog.wordpress.com/windows/)
+- [virtual machines playlist](https://www.youtube.com/playlist?list=PLr_v6Swg6-DIxHtionQbc3v8cht2o8yoX)
+
+windows
+- [windows 10](https://www.microsoft.com/en-in/software-download/windows10)
+- [windows server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
+- [jenkins download msi](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
