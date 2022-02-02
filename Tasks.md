@@ -49,3 +49,14 @@ windows
 - [windows 10](https://www.microsoft.com/en-in/software-download/windows10)
 - [windows server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
 - [jenkins download msi](https://www.jenkins.io/download/)
+
+Jenkins project-1(CI/CD):
+- [jenkins installation](env_setup/Jenkins_Installation.MD)
+- [git plugin](env_setup/Git_plugin_install.MD)
+- [maven plugin](env_setup/maven_install.MD)
+- [tomcat installation as a service on centos 8](https://tecadmin.net/install-tomcat-9-on-centos-8/)
+- [tomcat installation old documentation](env_setup/tomcat_installation.MD)
+
+Jenkins Jobs(CI/CD):
+- [maven sample project](env_setup/jenkins_jobs/My_First_Maven_Build.MD)
+- [deploy to tomcat server](env_setup/jenkins_jobs/Deploy_on_Tomcat_Server.MD)
