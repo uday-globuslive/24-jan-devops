@@ -55,6 +55,7 @@ Jenkins project-1(CI/CD):
 - [git plugin](env_setup/Git_plugin_install.MD)
 - [maven plugin](env_setup/maven_install.MD)
 - [tomcat installation as a service on centos 8](https://tecadmin.net/install-tomcat-9-on-centos-8/)
+- Extra step for previous tomcat installation: ```sudo chown -R tomcat:tomcat tomcat```
 - [tomcat installation old documentation](env_setup/tomcat_installation.MD)
 
 Jenkins Jobs(CI/CD):
