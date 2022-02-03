@@ -47,7 +47,8 @@ virtualbox
 
 vagrant
 - [vagrant cloud](https://app.vagrantup.com/ubuntu/boxes/trusty64)
-- 
+- [how to create vm using vagrant](https://devopsdiaryblog.wordpress.com/2018/02/01/how-to-create-a-vm-using-vagrant/)
+- [Some content on Vagrant in my blog](http://linuxdiaryblog.blogspot.com/p/vagrant.html)
 
 windows
 - [windows 10](https://www.microsoft.com/en-in/software-download/windows10)
