@@ -45,6 +45,10 @@ virtualbox
 - [windows and virtualbox](https://devopsdiaryblog.wordpress.com/windows/)
 - [virtual machines playlist](https://www.youtube.com/playlist?list=PLr_v6Swg6-DIxHtionQbc3v8cht2o8yoX)
 
+vagrant
+- [vagrant cloud](https://app.vagrantup.com/ubuntu/boxes/trusty64)
+- 
+
 windows
 - [windows 10](https://www.microsoft.com/en-in/software-download/windows10)
 - [windows server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
@@ -61,9 +65,11 @@ Jenkins project-1(CI/CD):
 - [jenkins blog](https://devopsdiaryblog.wordpress.com/jenkins/)
 - [gmail enable less secure apps](https://hotter.io/docs/email-accounts/secure-app-gmail/)
 - [pipeline syntax](https://www.jenkins.io/doc/book/pipeline/syntax/)
+- [Jenkins user timezone](https://www.jenkins.io/doc/book/using/change-time-zone/)
 
 
 Jenkins Jobs(CI/CD):
 - [maven sample project](env_setup/jenkins_jobs/My_First_Maven_Build.MD)
 - [deploy to tomcat server](env_setup/jenkins_jobs/Deploy_on_Tomcat_Server.MD)
+- [vagrant files](env_setup/vagrant_files)
 
