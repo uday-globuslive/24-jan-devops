@@ -60,6 +60,7 @@ Jenkins project-1(CI/CD):
 - [tomcat installation old documentation](env_setup/tomcat_installation.MD)
 - [jenkins blog](https://devopsdiaryblog.wordpress.com/jenkins/)
 - [gmail enable less secure apps](https://hotter.io/docs/email-accounts/secure-app-gmail/)
+- [pipeline syntax](https://www.jenkins.io/doc/book/pipeline/syntax/)
 
 
 Jenkins Jobs(CI/CD):
