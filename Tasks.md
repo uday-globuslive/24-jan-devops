@@ -54,12 +54,15 @@ Jenkins project-1(CI/CD):
 - [jenkins installation](env_setup/Jenkins_Installation.MD)
 - [git plugin](env_setup/Git_plugin_install.MD)
 - [maven plugin](env_setup/maven_install.MD)
+- [maven in-detail](https://www.tutorialspoint.com/maven/index.htm)
 - [tomcat installation as a service on centos 8](https://tecadmin.net/install-tomcat-9-on-centos-8/)
 - Extra step for previous tomcat installation: ```sudo chown -R tomcat:tomcat tomcat```
 - [tomcat installation old documentation](env_setup/tomcat_installation.MD)
 - [jenkins blog](https://devopsdiaryblog.wordpress.com/jenkins/)
 - [gmail enable less secure apps](https://hotter.io/docs/email-accounts/secure-app-gmail/)
 
+
 Jenkins Jobs(CI/CD):
 - [maven sample project](env_setup/jenkins_jobs/My_First_Maven_Build.MD)
 - [deploy to tomcat server](env_setup/jenkins_jobs/Deploy_on_Tomcat_Server.MD)
+
