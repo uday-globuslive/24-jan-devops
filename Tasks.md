@@ -57,6 +57,8 @@ Jenkins project-1(CI/CD):
 - [tomcat installation as a service on centos 8](https://tecadmin.net/install-tomcat-9-on-centos-8/)
 - Extra step for previous tomcat installation: ```sudo chown -R tomcat:tomcat tomcat```
 - [tomcat installation old documentation](env_setup/tomcat_installation.MD)
+- [jenkins blog](https://devopsdiaryblog.wordpress.com/jenkins/)
+- [gmail enable less secure apps](https://hotter.io/docs/email-accounts/secure-app-gmail/)
 
 Jenkins Jobs(CI/CD):
 - [maven sample project](env_setup/jenkins_jobs/My_First_Maven_Build.MD)
