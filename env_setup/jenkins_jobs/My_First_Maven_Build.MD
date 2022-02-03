@@ -15,6 +15,8 @@ We know how to use work with each and Git, Jenkins independently. What if you wa
    - *Source Code Management:*
       - Repository: `https://github.com/uday-globuslive/hello-world.git`
       - Branches to build : `*/master`  
+   - *Build Triggers:*
+      - POLL SCM: H/2 * * * * : Every 2 minutes it will check for any new code commits in the branch specified above in SCM part
    - *Build:*
      - Root POM:`pom.xml`
      - Goals and options: `clean install package`
