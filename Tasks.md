@@ -67,6 +67,10 @@ Jenkins project-1(CI/CD):
 - [gmail enable less secure apps](https://hotter.io/docs/email-accounts/secure-app-gmail/)
 - [pipeline syntax](https://www.jenkins.io/doc/book/pipeline/syntax/)
 - [Jenkins user timezone](https://www.jenkins.io/doc/book/using/change-time-zone/)
+- [bluecean plugin](https://www.jenkins.io/projects/blueocean/)
+- [blueocean plugin issue with branch](https://stackoverflow.com/questions/52086288/jenkins-blueocean-only-to-build-using-a-single-branch-for-build)
+- [jenkins windows slave](https://devopsbuzz.com/jenkins-windows-slave-configuration-with-screenshots/)
+- [jenkins master on windows- how to add a new node](https://blog.dbi-services.com/jenkins-add-a-new-node-slave-to-your-windows-jenkins-master/)
 
 
 Jenkins Jobs(CI/CD):
