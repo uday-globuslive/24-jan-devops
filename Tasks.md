@@ -79,7 +79,7 @@ Jenkins Jobs(CI/CD):
 - [vagrant files](env_setup/vagrant_files)
 
 
-Task vagrant:
+Task vagrant(Create a single vagrant file for three ubuntu machines by using below provisioners):
 - [vagrant file for jenkins using this provisioner](env_setup\vagrant_files\3. vagrant task\provisioning files\jenkins-setup.sh)
 - [vagrant file for nexus using this provisioner](env_setup\vagrant_files\3. vagrant task\provisioning files\nexus-setup.sh)
 - [vagrant file for sonarqube using this provisioner](env_setup\vagrant_files\3. vagrant task\provisioning files\sonar-setup.sh)
