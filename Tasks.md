@@ -78,3 +78,9 @@ Jenkins Jobs(CI/CD):
 - [deploy to tomcat server](env_setup/jenkins_jobs/Deploy_on_Tomcat_Server.MD)
 - [vagrant files](env_setup/vagrant_files)
 
+
+Task vagrant:
+- [vagrant file for jenkins using this provisioner](env_setup\vagrant_files\3. vagrant task\provisioning files\jenkins-setup.sh)
+- [vagrant file for nexus using this provisioner](env_setup\vagrant_files\3. vagrant task\provisioning files\nexus-setup.sh)
+- [vagrant file for sonarqube using this provisioner](env_setup\vagrant_files\3. vagrant task\provisioning files\sonar-setup.sh)
+
