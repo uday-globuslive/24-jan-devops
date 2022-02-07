@@ -87,3 +87,4 @@ Task vagrant(Create a single vagrant file for three ubuntu machines by using bel
 
 docker:
 - [docker volume locations](https://www.freecodecamp.org/news/where-are-docker-images-stored-docker-container-paths-explained/)
+- [docker volume mount](https://www.geeksforgeeks.org/mounting-a-volume-inside-docker-container/)
