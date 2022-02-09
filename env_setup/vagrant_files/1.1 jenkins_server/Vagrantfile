@@ -1,0 +1,20 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+# All Vagrant configuration is done below. The "2" in Vagrant.configure
+# configures the configuration version (we support older styles for
+# backwards compatibility). Please don't change it unless you know what
+# you're doing.
+Vagrant.configure("2") do |config|
+
+  config.vm.box = "bento/ubuntu-21.04"
+
+  config.vm.define "m1" do |m1|
+     m1.vm.hostname  = "jenkins-server"
+	 m1.vm.network "private_network", ip: "172.32.0.21"
+	 m1.vm.provider "virtualbox" do |vb|
+	   vb.name = "jenkins-server"
+	 end
+  end
+  config.vm.provision "shell", path: "jenkins-setup.sh"
+end
