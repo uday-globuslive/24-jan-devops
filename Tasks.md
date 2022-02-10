@@ -94,3 +94,6 @@ docker:
 
 docker tasks:
 - [mariadb windows](https://mariadb.org/download/?t=mariadb&p=mariadb&r=10.6.5&os=windows&cpu=x86_64&pkg=msi&m=aliyun)
+- [docker sample projects](https://github.com/uday-globuslive/DockerSampleApps)
+- [REST API youtube](https://www.youtube.com/watch?v=qVTAB8Z2VmA)
+
