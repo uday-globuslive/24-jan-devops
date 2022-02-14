@@ -91,6 +91,7 @@ docker:
 - [postgres dockerfile for windows](https://devopsdiaryblog.wordpress.com/2020/03/11/postgres-windows-container/)
 - [postgres sample image for windows](https://hub.docker.com/repository/docker/uday1kiran/postgres)
 - [docker install on server 2019](https://devopsdiaryblog.wordpress.com/2020/05/01/install-on-server-2019/)
+- [docker swarm](https://devopsdiaryblog.wordpress.com/docker-swarm/)
 
 docker tasks:
 - [mariadb windows](https://mariadb.org/download/?t=mariadb&p=mariadb&r=10.6.5&os=windows&cpu=x86_64&pkg=msi&m=aliyun)
