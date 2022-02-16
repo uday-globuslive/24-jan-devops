@@ -100,3 +100,4 @@ docker tasks:
 
 AWS:
 - [VPC, subnet, internet gateway, routing table,security groups,key/pair: creation](https://devopsdiaryblog.wordpress.com/2019/07/29/vpc-subnet-internet-gateway-routing-table-creation/)
+- [task 1](https://github.com/uday-globuslive/24-jan-devops/tree/main/aws/vpc-subnet-task)
