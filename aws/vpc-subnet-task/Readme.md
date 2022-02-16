@@ -6,3 +6,6 @@
 - NAT gateway
 - ec2 instances
 - ssh console--- hostname, ifconfig
+
+
+uday.globuslive@gmail.com
