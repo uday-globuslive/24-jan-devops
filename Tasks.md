@@ -98,3 +98,5 @@ docker tasks:
 - [docker sample projects](https://github.com/uday-globuslive/DockerSampleApps)
 - [REST API youtube](https://www.youtube.com/watch?v=qVTAB8Z2VmA)
 
+AWS:
+- [VPC, subnet, internet gateway, routing table,security groups,key/pair: creation](https://devopsdiaryblog.wordpress.com/2019/07/29/vpc-subnet-internet-gateway-routing-table-creation/)
