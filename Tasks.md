@@ -101,3 +101,12 @@ docker tasks:
 AWS:
 - [VPC, subnet, internet gateway, routing table,security groups,key/pair: creation](https://devopsdiaryblog.wordpress.com/2019/07/29/vpc-subnet-internet-gateway-routing-table-creation/)
 - [task 1](https://github.com/uday-globuslive/24-jan-devops/tree/main/aws/vpc-subnet-task)
+- https://docs.aws.amazon.com/IAM/latest/UserGuide/console_account-alias.html
+- https://awspolicygen.s3.amazonaws.com/policygen.html
+- https://linuxhint.com/install_aws_cli_ubuntu/
+- https://bobbyhadz.com/blog/aws-cli-clear-credentials
+- https://linuxdiaryblog.blogspot.com/2019/08/list-all-ec2-instances-from-all-regions.html
+- https://linuxdiaryblog.blogspot.com/2020/04/aws-cli.html
+- https://medium.com/awesome-cloud/aws-difference-between-ebs-and-instance-store-f030c4407387
+- https://linuxdiaryblog.blogspot.com/2019/08/ebs-volumes.html
+- [task2](https://devopsdiaryblog.wordpress.com/2021/01/07/rdp-for-aws-linux/)
