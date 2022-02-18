@@ -113,4 +113,4 @@ AWS:
 - [SSL and TLS connection draining](https://github.com/uday1kiran/MyBlog/blob/master/aws/16-02-2022/SSL%20and%20TLS,%20.md%20and%20connection%20draining.md)
 - [ASG](https://github.com/uday1kiran/MyBlog/blob/master/aws/16-02-2022/ASG/asg.md)
 - [ASG continued](https://github.com/uday1kiran/MyBlog/blob/master/aws/16-02-2022/ASG/asg_continued.pdf)
-- 
+- [Route53](https://linuxdiaryblog.blogspot.com/2022/02/dns-and-route-53.html)
