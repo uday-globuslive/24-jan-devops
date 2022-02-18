@@ -110,3 +110,7 @@ AWS:
 - https://medium.com/awesome-cloud/aws-difference-between-ebs-and-instance-store-f030c4407387
 - https://linuxdiaryblog.blogspot.com/2019/08/ebs-volumes.html
 - [task2](https://devopsdiaryblog.wordpress.com/2021/01/07/rdp-for-aws-linux/)
+- [SSL and TLS connection draining](https://github.com/uday1kiran/MyBlog/blob/master/aws/16-02-2022/SSL%20and%20TLS,%20.md%20and%20connection%20draining.md)
+- [ASG](https://github.com/uday1kiran/MyBlog/blob/master/aws/16-02-2022/ASG/asg.md)
+- [ASG continued](https://github.com/uday1kiran/MyBlog/blob/master/aws/16-02-2022/ASG/asg_continued.pdf)
+- 
