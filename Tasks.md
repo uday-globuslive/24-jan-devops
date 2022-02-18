@@ -114,3 +114,5 @@ AWS:
 - [ASG](https://github.com/uday1kiran/MyBlog/blob/master/aws/16-02-2022/ASG/asg.md)
 - [ASG continued](https://github.com/uday1kiran/MyBlog/blob/master/aws/16-02-2022/ASG/asg_continued.pdf)
 - [Route53](https://linuxdiaryblog.blogspot.com/2022/02/dns-and-route-53.html)
+- [Basic selenium](https://www.youtube.com/watch?v=7yYDOja8n_k)
+- [Maven and jenkins with selenium](https://www.guru99.com/maven-jenkins-with-selenium-complete-tutorial.html)
