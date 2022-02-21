@@ -116,3 +116,4 @@ AWS:
 - [Route53](https://linuxdiaryblog.blogspot.com/2022/02/dns-and-route-53.html)
 - [Basic selenium](https://www.youtube.com/watch?v=7yYDOja8n_k)
 - [Maven and jenkins with selenium](https://www.guru99.com/maven-jenkins-with-selenium-complete-tutorial.html)
+- [s3 documentation](https://docs.aws.amazon.com/s3/index.html)
