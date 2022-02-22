@@ -117,3 +117,6 @@ AWS:
 - [Basic selenium](https://www.youtube.com/watch?v=7yYDOja8n_k)
 - [Maven and jenkins with selenium](https://www.guru99.com/maven-jenkins-with-selenium-complete-tutorial.html)
 - [s3 documentation](https://docs.aws.amazon.com/s3/index.html)
+
+- [AWS lambda](https://aws.amazon.com/premiumsupport/knowledge-center/start-stop-lambda-eventbridge/)
+- 
