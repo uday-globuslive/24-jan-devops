@@ -119,4 +119,4 @@ AWS:
 - [s3 documentation](https://docs.aws.amazon.com/s3/index.html)
 
 - [AWS lambda](https://aws.amazon.com/premiumsupport/knowledge-center/start-stop-lambda-eventbridge/)
-- 
+- [AWS delete snapshot](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_DeleteSnapshot.html)
