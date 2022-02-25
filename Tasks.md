@@ -120,3 +120,4 @@ AWS:
 
 - [AWS lambda](https://aws.amazon.com/premiumsupport/knowledge-center/start-stop-lambda-eventbridge/)
 - [AWS delete snapshot](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_DeleteSnapshot.html)
+- [AWS peering with accounts](https://skundunotes.com/2021/08/24/vpc-peering-using-terraform-across-separate-aws-accounts/#:~:text=%20VPC%20Peering%20using%20Terraform%20across%20separate%20AWS,the%20peering%20connection%20from%20either%20side.%20More%20)
